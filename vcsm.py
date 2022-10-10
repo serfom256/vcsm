@@ -209,4 +209,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         pass
     except Exception:
-        print("Invalida commmand, use -h flag to get more information")
+        print("Invalid commmand, use -h flag to get more information")
